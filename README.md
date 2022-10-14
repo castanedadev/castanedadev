@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=castanedadev-edu&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castanedadev-edu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castanedadev-edu&theme=radical&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
