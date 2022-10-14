@@ -9,4 +9,7 @@ castanedadev-edu/castanedadev-edu is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=castanedadev-edu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=castanedadev-edu&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castanedadev-edu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
