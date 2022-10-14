@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Rick
+- 👀 I speak Spanish & English fluently as well as French to some extent, Intermediate to be precise.
 - 👀 I’m interested in anything related to programming, although my main responsabilities are on the QA Automation side.
 - 🌱 I’m currently learning React and learning all about the Cibersecurity field
 - 💞️ I’m looking to collaborate on projects related to Automation Frameworks or any Javascript utilities.
