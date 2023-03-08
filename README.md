@@ -3,7 +3,7 @@
 - 👀 I’m interested in anything related to programming, although my main responsabilities are on the QA Automation side.
 - 🌱 I’m currently learning React and learning all about the Cibersecurity field
 - 💞️ I’m looking to collaborate on projects related to Automation Frameworks or any Javascript utilities.
-- 👀 Looking for full stack positions
+- 👀 Looking for sdet or full stack positions
 - 📫 How to reach me castanedahernandez.rj@gmail.com
 
 <!---
