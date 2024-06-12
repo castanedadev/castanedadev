@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning React and learning all about the Cibersecurity field
 - 💞️ I’m looking to collaborate on projects related to Automation Frameworks or any Javascript utilities.
 - 👀 Looking for sdet or full stack positions
-- 📫 How to reach me castanedahernandez.rj@gmail.com
 
 <!---
 castanedadev/castanedadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
