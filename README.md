@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rick
 - 👀 I speak Spanish, English fluently and French to some extent.
-- 👀 I’m interested in anything related to programming, although my main responsabilities are nowadays on Automation related.
+- 👀 I’m interested in anything related to programming, although my main responsabilities are nowadays Automation related.
 - 🌱 I’m currently getting my hands on React/NextJS and learning all about the Cibersecurity field
 - 💞️ I’m looking to collaborate on projects related to Automation Frameworks or any Javascript utilities.
 - 👀 Looking for sdet or full stack positions
